@@ -1,0 +1,9 @@
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\bin\Debug\Cronomentro-Pomodoro.exe.config
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\bin\Debug\Cronomentro-Pomodoro.exe
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\bin\Debug\Cronomentro-Pomodoro.pdb
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro-Pomodoro.csprojResolveAssemblyReference.cache
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro_Pomodoro.Properties.Resources.resources
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro-Pomodoro.csproj.GenerateResource.Cache
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro-Pomodoro.exe
+c:\users\ciril\documents\visual studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro-Pomodoro.pdb
+C:\Users\ciril\Documents\Visual Studio 2015\Projects\Cronomentro-Pomodoro\Cronomentro-Pomodoro\obj\Debug\Cronomentro_Pomodoro.Cronometro.resources
